@@ -78,6 +78,9 @@ I’m a **hands-on, production-focused programmer** with experience spanning **g
 
 ## 📫 Get in Touch
 
-If you’re hiring or want to talk tech, feel free to reach out via GitHub.
+If you’re hiring or want to talk tech, feel free to reach out & connect.
+
+- LinkedIn: https://www.linkedin.com/in/shayan-industry/
+- Website: https://sindustry7.wixsite.com/portfolio
 
 > I enjoy building systems that **work under pressure**, scale cleanly, and are a pleasure to maintain.
