@@ -41,9 +41,8 @@ I’m a **hands-on, production-focused programmer** with experience spanning **g
 - **C#, Java, PHP** — 3 years  
 
 ### Platforms & Deployment
-- **:contentReference[oaicite:0]{index=0}** — 8+ years  
-- **:contentReference[oaicite:1]{index=1}**  
-- **:contentReference[oaicite:2]{index=2} / Pseidon** — 4+ years  
+- **Roblox Studio** — 8+ years  
+- **Heroku / Pseidon** — 4+ years  
 
 ---
 
