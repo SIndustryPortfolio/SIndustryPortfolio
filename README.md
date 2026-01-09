@@ -82,5 +82,6 @@ If you’re hiring or want to talk tech, feel free to reach out & connect.
 
 - LinkedIn: https://www.linkedin.com/in/shayan-industry/
 - Website: https://sindustry7.wixsite.com/portfolio
+- Email: s.industry@outlook.com
 
 > I enjoy building systems that **work under pressure**, scale cleanly, and are a pleasure to maintain.
