@@ -37,7 +37,7 @@ I’m a **hands-on, production-focused programmer** with experience spanning **g
 - **Python, HTML, CSS** — 6+ years  
 - **SQL** — 6+ years  
 - **NoSQL** — 5+ years  
-- **JavaScript** — 4+ years  
+- **JavaScript, Typescript** — 4+ years  
 - **C#, Java, PHP** — 3 years  
 
 ### Platforms & Deployment
