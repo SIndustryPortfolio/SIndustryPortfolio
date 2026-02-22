@@ -10,10 +10,7 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 ## 🚀 What I'm Working On
 
-- 🔭 Currently building **Roadsy**
-- 🌱 Always exploring new technologies
-- 💬 Ask me about **anything tech related**
-- ⚡ Fun fact: **Scotland's national animal is the unicorn**
+- 🔭 TBD
 
 ---
 
