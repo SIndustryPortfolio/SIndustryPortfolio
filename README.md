@@ -1,74 +1,101 @@
-# 👋 Hi, I’m a Software Engineer
+# 👋 Hi, I'm Shayan
 
-**2025 Software Engineering Graduate** based in the **North West of England**, actively seeking **On-site, Hybrid, or Remote** **full-time / permanent** roles.
+**Software Engineer** | 2025 Graduate | North West England
 
-I’m a **hands-on, production-focused programmer** with experience spanning **game development, web platforms, and general software engineering** — including work on **successful start-ups** and **live production systems for freelance clients**.
+I'm a **hands-on, production-focused programmer** with experience spanning **game development, web platforms, and general software engineering** — including work on **successful start-ups** and **live production systems for freelance clients**.
+
+🎯 Actively seeking **On-site, Hybrid, or Remote** **full-time / permanent** roles.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔭 Currently building **Roadsy**
+- 🌱 Always exploring new technologies
+- 💬 Ask me about **anything tech related**
+- ⚡ Fun fact: **Scotland's national animal is the unicorn**
+
+---
+
+## 🌐 Socials
+
+[![Discord]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://img.shields.io/badge/Discord-%235865F2.svg?))](https://discord.gg/xuwHSEVx6D)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/shayan-industry/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.industry@outlook.com)
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+| | | | |
+|---|---|---|---|
+| **Lua** | **Python** | **TypeScript** | **JavaScript** |
+| **PHP** | **C#** | **HTML5** | **CSS3** |
+| **JAVA**  | **Flask** | **Symfony** | **React** |
+| **Markdown** | **Bootstrap** | **JWT** | **npm** |
+
+### Databases & Cloud
+| | | |
+|---|---|---|
+| **MongoDB** | **PostgreSQL** | **MySQL** |
+| **DataStore** |
+
+### Tools & Platforms
+| | | |
+|---|---|---|
+| **GitHub** | **GitHub Actions** | **PowerShell** |
+| **Windows CMD** | **Raspberry Pi** | **Adobe Creative Cloud** | 
+| **Adobe Illustrator** | **Adobe XD** | **Adobe Photoshop** | 
+| **Adobe Premiere Pro** | **Adobe After Effects** | **Figma** | 
+| **Canva** | **Adobe Dreamweaver** |
+
+### Game Development & Engines
+| | | |
+|---|---|---|
+| **Unity** | **Roblox Studio** | **Web** |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIndustryPortfolio&show_icons=true&theme=radical)
+
+| Contributions | Repositories | Followers |
+|:-------------:|:------------:|:---------:|
+| 38 | 0 | 2 |
 
 ---
 
 ## 💼 What I Do
 
-- **Game Development**
-  - Roblox (LuaU systems, services, multiplayer logic)
-  - Unity (C# gameplay, tooling, engine-side logic)
-  - Mono & Web-based game engines
-
-- **Web Development**
-  - Backend, Frontend & Fullstack
-  - REST APIs, authentication, security-first design
-  - Real-time systems, multiplayer networking, performance optimisation
-
-- **Software Development**
-  - Desktop apps (Tkinter, Windows Forms)
-  - CLIs, automation tools
-  - Batch & Bash scripting
-
-- **Freelance / Commission Work**
-  - Direct client communication
-  - Production-ready solutions
-  - Maintaining and extending **live systems**
+- 🎮 **Game Development** — Roblox (LuaU), Unity (C#), Mono & Web-based engines
+- 🌐 **Web Development** — Fullstack, REST APIs, real-time systems, multiplayer networking
+- 💻 **Software Development** — Desktop apps (Tkinter, Windows Forms), CLIs, automation tools
+- 🤝 **Freelance / Commission Work** — Client communication, production-ready solutions, live systems
 
 ---
 
-## 🧠 Technical Experience
+## 🧠 Engineering Practices
 
-### Languages
-- **Lua** — 8+ years  
-- **Python, HTML, CSS** — 6+ years  
-- **SQL** — 6+ years  
-- **NoSQL** — 5+ years  
-- **JavaScript, Typescript** — 4+ years  
-- **C#, Java, PHP** — 3 years  
-
-### Platforms & Deployment
-- **Roblox Studio** — 8+ years  
-- **Heroku / Pseidon** — 4+ years  
-
----
-
-## 🧩 Engineering Practices
-
-- Agile / Kanban workflows  
-- Object-Oriented Programming & Design Patterns  
-- Test-Driven Development (TDD)  
-- Pair Programming  
-- CI / CD pipelines  
-- Debugging, troubleshooting & system repair  
-- Writing **maintainable, dependable, production-quality software**
+- Agile / Kanban workflows
+- OOP & Design Patterns
+- Test-Driven Development (TDD)
+- Pair Programming
+- CI/CD Pipelines
+- Debugging & system repair
+- **Maintainable, production-quality software**
 
 ---
 
 ## 🤝 Soft Skills
 
-- Clear communication  
-- Strong teamwork  
-- Organisation & reliability  
-- Punctuality  
-- High digital literacy  
+✅ Clear communication • ✅ Strong teamwork • ✅ Organisation & reliability  
+✅ Punctuality • ✅ High digital literacy
 
 ---
 
-## 🚀 What I’m Looking For
+## 🎯 Looking For
 
 - **Graduate / Junior / Mid-level Software Engineer roles**
 - Teams that value **code quality, ownership, and growth**
@@ -76,12 +103,12 @@ I’m a **hands-on, production-focused programmer** with experience spanning **g
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get In Touch
 
-If you’re hiring or want to talk tech, feel free to reach out & connect.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-industry/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sindustry7.wixsite.com/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.industry@outlook.com)
 
-- LinkedIn: https://www.linkedin.com/in/shayan-industry/
-- Website: https://sindustry7.wixsite.com/portfolio
-- Email: s.industry@outlook.com
+---
 
-> I enjoy building systems that **work under pressure**, scale cleanly, and are a pleasure to maintain.
+> *I enjoy building systems that **work under pressure**, scale cleanly, and are a pleasure to maintain.*
