@@ -6,11 +6,6 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 🎯 Actively seeking **On-site, Hybrid, or Remote** **full-time / permanent** roles.
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xuwHSEVx6D)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/shayan-industry/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.industry@outlook.com)
-<br>
-
 ---
 
 ## 💻 Tech Stack
@@ -111,6 +106,7 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 ## 📫 Get In Touch
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xuwHSEVx6D)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-industry/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sindustry7.wixsite.com/portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.industry@outlook.com)
