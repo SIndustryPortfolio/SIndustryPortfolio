@@ -8,12 +8,6 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🔭 TBD
-
----
-
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/xuwHSEVx6D)
