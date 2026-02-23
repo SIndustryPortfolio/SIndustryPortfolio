@@ -52,7 +52,11 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)](#)
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)](#)
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)](#)
-
+[![Microsoft Office 365](https://img.shields.io/badge/Microsoft%20Office%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)](#)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](#)
+[![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)](#)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](#)
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)](#)
 
 ### Game Development & Engines
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=roblox&logoColor=white)](#)
