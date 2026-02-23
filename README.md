@@ -58,14 +58,6 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat&logo=roblox&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
-
----
-
-## 📊 GitHub Stats
-| Contributions | Repositories | Followers |
-|:-------------:|:------------:|:---------:|
-| 38 | 0 | 2 |
-
 ---
 
 ## 💼 What I Do
