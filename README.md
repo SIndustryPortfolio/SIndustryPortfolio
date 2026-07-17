@@ -92,11 +92,11 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 ---
 
-## 🎯 Looking For
+## 🎯 Experience
 
-- **Graduate / Junior / Mid-level Software Engineer roles**
-- Teams that value **code quality, ownership, and growth**
-- Real-world problems, scalable systems, and meaningful impact
+- 06/26 - CURRENT | ITV Studios
+- 01/21 - 01/25 | Project Flight
+- 01/21 - CURRENT | Independent Developer
 
 ---
 
