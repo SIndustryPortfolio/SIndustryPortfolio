@@ -96,7 +96,7 @@ I'm a **hands-on, production-focused programmer** with experience spanning **gam
 
 - 06/26 - CURRENT | ITV Studios
 - 01/21 - 01/25 | Project Flight
-- 01/21 - CURRENT | Independent Developer
+- 01/20 - CURRENT | Independent Developer
 
 ---
 
